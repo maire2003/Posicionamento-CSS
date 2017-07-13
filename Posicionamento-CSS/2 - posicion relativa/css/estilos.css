@@ -1,0 +1,39 @@
+h1, h2{
+
+	text-align: center;
+}
+
+
+#contenedor-principal{
+	width: 80%;
+	height: 900px;
+	margin: 0 auto;
+	border:1px solid red;
+}
+
+
+
+#otro-contenedor{
+
+	background: url("../img/iphone.jpg") no-repeat center /100%;
+	width: 1260px;
+	height: 800px;
+	border:1px solid blue;
+	margin: 0 auto;
+	margin-top: 40px;
+}
+
+
+
+
+
+#elemento-posicionado{
+
+	width: 160px;
+	height: 160px;
+	background: url("../img/precio.png") no-repeat center / 100%;
+	border:none;
+	position:relative;
+	left: 722px;
+	top:307px;
+}

@@ -1,0 +1,53 @@
+body{
+
+	text-align: center;
+}
+
+
+
+
+h1{
+	color: red;
+}
+
+
+
+
+nav#menu{
+
+	position: fixed;
+	top:80px;
+	left: 100px;
+
+
+}
+
+
+
+nav#menu ul li{
+	background: #d23dd4;
+	border-radius: 0.5em;
+	display: inline-block;
+	padding: 0.7em 2em;
+
+
+}
+
+
+nav#menu ul li:hover{
+
+	background: #d43d72;
+}
+
+nav#menu ul li a{
+	color:#000;
+	text-decoration: none;
+
+}
+
+
+section{
+	margin-top: 100px;
+
+
+}
